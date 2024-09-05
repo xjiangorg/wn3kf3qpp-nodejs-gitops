@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wn3kf3qpp-nodejs-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/wn3kf3qpp-nodejs-gitops
